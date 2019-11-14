@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Card from 'react-bootstrap/Card'
-import Button from 'react-bootstrap/Button'
 import data from './Text'
 
 class Quote extends Component {

@@ -48,6 +48,22 @@ const data = {
         "_id": 12,
         "quote": "Abobi focus dat homeboy",
       },
+      {
+        "_id": 13,
+        "quote": "on the Kunku",
+      },
+      {
+        "_id": 14,
+        "quote": "on the coded coded",
+      },
+      {
+        "_id": 15,
+        "quote": "Hol am stand!!!",
+      },
+      {
+        "_id": 16,
+        "quote": "i go pele pele you",
+      },
   ]
 }
  

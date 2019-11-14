@@ -1,5 +1,5 @@
 .body {
-    background: linear-gradient(156.28deg, #00fff0 0.49%, #2bb75a 101.69%);
+    background:rgb(236, 236, 236);;
     height: 100vh;
 }
 
@@ -23,10 +23,9 @@ h2 {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 28px;
     text-align: center;
-
     color: #000000;
 }
 
@@ -48,13 +47,18 @@ h4 {
   font-size: 24px;
   line-height: 28px;
   text-align: center;
+  color: #000000;
+}
 
-  color: #ffffff;
+.icon {
+    width: 50px;
+    height: 50px;
+    color: linear-gradient(89.05deg, #93fdcb 0.12%, #0c6579 102.69%);
 }
 
 @media only screen and (min-width: 768px) {
     .body {
-        background: linear-gradient(156.28deg, #00fff0 0.49%, #2bb75a 101.69%);
+        background: rgb(236, 236, 236);
         height: 100vh;
     }
 
@@ -78,7 +82,7 @@ h4 {
         font-family: Roboto;
         font-style: normal;
         font-weight: normal;
-        font-size: 24px;
+        font-size: 18px;
         line-height: 28px;
         text-align: center;
 
@@ -99,7 +103,11 @@ h4 {
         font-size: 24px;
         line-height: 28px;
         text-align: center;
-
-        color: #ffffff;
+        color: #000000;
+    }
+    .icon {
+        width: 50px;
+        height: 50px;
+        color: linear-gradient(89.05deg, #93fdcb 0.12%, #0c6579 102.69%);
     }
 }
